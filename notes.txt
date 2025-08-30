@@ -2,4 +2,5 @@ My first Git experiment
 Second line (Local Update)
 Third line (Global Update)
 
-Update from feature-update branch
+
+Branch Updates from branch quick-fix
